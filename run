@@ -1,0 +1,7 @@
+#!/bin/bash 
+clear
+rm *.class
+javac Project.java
+java Project
+
+      
